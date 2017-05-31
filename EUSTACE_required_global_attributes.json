@@ -1,0 +1,19 @@
+{
+    "required_global_attributes":[
+        "Conventions",
+        "creation_date",
+        "data_specs_version",
+        "frequency",
+        "institution",
+        "license",
+        "source"
+    ],
+    "version_metadata":{
+        "author":"Ag Stephens <ag.stephens@stfc.ac.uk>",
+        "creation_date":"2017-05-17",
+        "institution_id":"CEDA",
+        "latest_tag_point":"0.0.1",
+        "note":"",
+        "previous_commit":""
+    }
+}
